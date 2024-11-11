@@ -36,8 +36,8 @@
   "homepage": "https://github.com/indutny/proof-of-work#readme",
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "eslint": "^4.19.1",
-    "mocha": "^5.2.0"
+    "eslint": "^9.14.0",
+    "mocha": "^10.8.2"
   },
   "dependencies": {
     "hash.js": "^1.1.5",
